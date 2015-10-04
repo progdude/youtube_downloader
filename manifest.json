@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "YouTube To MP3 Converter",
+  "description": "The Best Extension Out There To Convert Youtube To MP3",
+  "version": "0.1",
+
+  "permissions": [
+    "tabs",
+    "downloads"
+  ],
+  
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+
+"icons": { "16": "16.png",
+           "48": "youtube.png",
+          "128": "icon.png" }
+}
