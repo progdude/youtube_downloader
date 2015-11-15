@@ -50,7 +50,7 @@ body {
 	font-size:14px;
 }
 
-.myButton {
+.convert {
 	background-color:#44c767;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
@@ -65,10 +65,10 @@ body {
 	text-decoration:none;
 	text-shadow:-1px -1px 0px #2f6627;
 }
-.myButton:hover {
+.convert:hover {
 	background-color:#5cbf2a;
 }
-.myButton:active {
+.convert:active {
 	position:relative;
 	top:1px;
 }
@@ -77,7 +77,7 @@ body {
 	margin-top: 10px;
 }
 
-.myButton1 {
+.download {
 	background-color:#44c767;
 	-moz-border-radius:10px;
 	-webkit-border-radius:10px;
@@ -93,10 +93,10 @@ body {
 	text-shadow:-1px -1px 0px #2f6627;
 	visibility:hidden;
 }
-.myButton1:hover {
+.download:hover {
 	background-color:#5cbf2a;
 }
-.myButton1:active {
+.download:active {
 	position:relative;
 	top:1px;
 }
